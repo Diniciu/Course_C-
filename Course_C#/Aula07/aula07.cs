@@ -21,7 +21,7 @@ namespace Course_C_.Aula07
             const double pi = 3.1415;
 
             /* O compilador gera um erro pois não permite alteração do valor atribuído.
-                name = "Fred"; - aula07.cs(23,13): error CS0131: O lado esquerdo de uma atribuição deve ser uma variável, uma propriedade ou um indexador
+                name = "Fred"; - aula07.cs(24,13): error CS0131: O lado esquerdo de uma atribuição deve ser uma variável, uma propriedade ou um indexador
             */
 
             System.Console.WriteLine("First name: {0}\nLast name: {1}\nValue of Pi: {2}", firstName, lastName, pi);
